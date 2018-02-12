@@ -1,0 +1,62 @@
+﻿{
+  "language": "tr-TUR",
+  "version": "1.0",
+  "login": {
+    "title": "başlık",
+    "enter-password": "şifre giriniz:",
+    "confirm": "onayla",
+    "reset-password": "şifreyi sıfırla",
+    "login-error": "giriş hatası"
+  },
+  "workspace": {
+    "title": "başlık",
+    "untitle": "başlıksız",
+    "file": {
+      "index": "içindekiler",
+      "new-file": "yeni dosya",
+      "open-file": "dosyayı aç",
+      "save-file": "dosyayı kaydet",
+      "save-new-file": "yeni dosya kaydet",
+      "encrypt": "şifrele",
+      "decrypt": "şifreyiçöz"
+    },
+    "text": {
+      "index": "içindekiler",
+      "font": "yazı tipi",
+      "color": "renk",
+      "auto-NL": "otomatik NL",
+      "time": "zaman",
+      "copy": "kopyala",
+      "paste": "yapıştır",
+      "select-all": "tümünü seç",
+      "clean": "temizle"
+    },
+    "lock": {
+      "index": "içindekiler"
+    },
+    "exit": {
+      "index": "içindekiler"
+    },
+    "setting": {
+      "index": "içindekiler",
+      "language": "dil"
+    },
+    "about": {
+      "index": "içindekiler"
+    }
+  },
+  "setup": {
+    "password-error": "şifre hatası",
+    "enter-old-password": "eski şifreyi gir",
+    "enter-new-password": "yeni şifreyi gir",
+    "enter-new-password2": "yeni şifreyi tekrar gir",
+    "password-cant-empty": "şifre boş olamaz",
+    "check-new-password": "yeni şifreyi kontrol ediniz",
+    "new-password-check-fail": "yeni şifre kontrol hatası",
+    "success": "başarılı"
+  },
+  "author": "oxygen-studio yazarı",
+  "software-CopyRight": "Telif Hakkı (C) 2017, Liu Hao Tüm hakları saklıdır",
+  "translater": "çeviren Yunus Kalkan",
+  "translate-CopyRight": "MIT License"
+}
